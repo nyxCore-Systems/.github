@@ -84,6 +84,11 @@ Three operators. Each with a persona seat in the pantheon.
 
 **Founder & Chief Architect** · Senior DevOps Architect &amp; AI Advisor at [Clarait](https://clarait.com/)
 
+[![bio](https://img.shields.io/badge/bio-oli.nyxcore.cloud-E07C38?style=flat-square)](https://oli.nyxcore.cloud)
+[![github](https://img.shields.io/badge/github-mrwind--up--bird-1F1F38?style=flat-square&logo=github&logoColor=white)](https://github.com/mrwind-up-bird)
+[![linkedin](https://img.shields.io/badge/linkedin-oliver--baer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliver-baer-0436b753)
+[![email](https://img.shields.io/badge/hello%40nyxcore.cloud-2AC7D4?style=flat-square)](mailto:hello@nyxcore.cloud)
+
 Twenty-eight years of software — Philips Medical at the start, AI-native infrastructure now, a manufacturing floor sitting in the middle like a keel. Ships the Aurus series, the Mini series, and the founding B2B surface Q-Records.
 
 `aristaeus` · the cultivator of solutions · anticipatory innovation · cross-domain synthesis · hardened by Ipcha self-check
@@ -92,6 +97,10 @@ Twenty-eight years of software — Philips Medical at the start, AI-native infra
 
 **Core Systems Engineer** · Keeper of the Morphones
 
+[![site](https://img.shields.io/badge/site-lisawelsch.com-9D7CF0?style=flat-square)](https://www.lisawelsch.com)
+[![github](https://img.shields.io/badge/github-SimplyLiz-1F1F38?style=flat-square&logo=github&logoColor=white)](https://github.com/SimplyLiz)
+[![email](https://img.shields.io/badge/lisa%40nyxcore.cloud-2AC7D4?style=flat-square)](mailto:lisa@nyxcore.cloud)
+
 Ships the Rust + TypeScript stack that sits under the ecosystem — LIP, SwarmWire, ArchReview, Cartographer, CKB, Onboarding Tutor, Morphon. Shipping cadence, local-first, pragmatic foresight.
 
 `metis` · the cunning intelligence · efficiency engineering · tacit-knowledge preservation · inner ring with Aristaeus
@@ -99,6 +108,9 @@ Ships the Rust + TypeScript stack that sits under the ecosystem — LIP, SwarmWi
 ### [Martyna Kwiecień](https://martyna.nyxcore.cloud) · Voice of Themis
 
 **Data Sovereignty Counsel**
+
+[![site](https://img.shields.io/badge/site-claritas--ai--consulting-D4AF37?style=flat-square)](https://claritas-ai-consulting.vercel.app)
+[![email](https://img.shields.io/badge/martyna%40nyxcore.cloud-2AC7D4?style=flat-square)](mailto:martyna@nyxcore.cloud)
 
 DSGVO, Article 32, tenant isolation done right. The reason every byte knows which jurisdiction it lives in.
 
