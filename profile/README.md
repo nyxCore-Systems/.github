@@ -34,7 +34,7 @@ Products that speak the Model Context Protocol — pluggable agents call them th
 
 | Product | What it is | Landing |
 |---|---|---|
-| **CKB** | Code Knowledge Base · SCIP-native · 226 tests · Python | [ckb.nyxcore.cloud](https://ckb.nyxcore.cloud) |
+| **CKB** | Code Knowledge Base · SCIP-native · v9.2.0 · 79 MCP tools · Python | [ckb.nyxcore.cloud](https://ckb.nyxcore.cloud) |
 | **Cartographer** | Architecture mapping · Rust + Python · preview | [cartographer.nyxcore.cloud](https://cartographer.nyxcore.cloud) |
 | **Onboarding Tutor** | Interactive codebase + docs guide · Electron · v1.3.0 | [onboarding-tutor.nyxcore.cloud](https://onboarding-tutor.nyxcore.cloud) |
 
@@ -55,7 +55,7 @@ Separate long-running processes nyxCore orchestrates — the Rust code-intellige
 
 | Product | What it is | Landing |
 |---|---|---|
-| **LIP** | Live code intelligence daemon · Rust · blast-radius indexing · MIT | [lip.nyxcore.cloud](https://lip.nyxcore.cloud) |
+| **LIP** | Live code intelligence daemon · Rust · v2.3.5 · blast-radius indexing · MIT | [lip.nyxcore.cloud](https://lip.nyxcore.cloud) |
 | **Aurus.Intel** | Voice intelligence · macOS · Rust + Tauri · cloud / on-device | [aurus-intel.nyxcore.cloud](https://aurus-intel.nyxcore.cloud) |
 | **Aurus.Agent** | Phone-native voice agent · outbound + inbound · consent-recorded | [aurus-agent.nyxcore.cloud](https://aurus-agent.nyxcore.cloud) |
 | **Morphon** | Collective-intelligence skeleton · preview · Python | [morphon.nyxcore.cloud](https://morphon.nyxcore.cloud) |
